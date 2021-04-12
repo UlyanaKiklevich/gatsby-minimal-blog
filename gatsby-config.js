@@ -38,11 +38,7 @@ module.exports = {
           {
             name: `Evgeni Obukhovski`,
             url: `/evgeni-obukhovski`,
-          },
-          {
-            name: `Feeds Service`,
-            url: `http://feed.ecommerce-consulting.pl/`,
-          },
+          }
         ],
       },
     },
